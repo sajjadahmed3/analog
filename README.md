@@ -17,4 +17,4 @@ JAVASCRIPT
 <hr>
 <h2>
 
-<a href="https://github.com/sajjadahmed3/analog/"/>Welcome To My Analog Clock</a>
+<a href="https://sajjadahmed3.github.io/analog/"/>Welcome To My Analog Clock</a>
